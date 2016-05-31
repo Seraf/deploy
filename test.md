@@ -1,9 +1,9 @@
 # Contributing Guidelines
 
 #Table of Contents
-  * [Agile Project Management](#an-agile-project-management-workflow-just-using-gitHub-issues)
+  * [Agile Project Management](#an-agile-project-management-workflow-just-using-github-issues)
     * [Agile Components](#agile-components)
-      * [Stories](#stories)
+      * [Stories](#user-stories)
       * [Sprints](#sprints)
       * [Sprint Backlog](#sprint-backlog)
       * [Global Backlog](#global-backlog)
@@ -29,7 +29,7 @@ To achieve this, we use Waffle : https://waffle.io/cycloidio/youdeploy/
 
 These are the core components of an agile system that you can implement using GitHub issues (you might want to skip ahead if you're already an agile ninja).
 
-####Stories (a.k.a User Stories)
+####User Stories
 
 Stories are the smallest unit of work to be done for a project. The goal of a story is to deliver a unit of value to the customer. In Agile-land, common syntax for writing stories is:
 
